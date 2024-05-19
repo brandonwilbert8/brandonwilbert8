@@ -1,8 +1,13 @@
-# Brandon Wilbert 🙋‍♂️
-Hi all! 👋 I'm a Software Engineer based in Melbourne, Australia.
+<h1 align="center"><a href="https://brandonwilbert.com">Brandon Wilbert 🙋‍♂️</a></h1><br>
+
+<p align="center">
+  Hi all! 👋 I'm a Software Engineer based in Melbourne, Australia. Nice meeting you here 😀
+</p>
+
+----
 
 # 💫 About Me:
-🔭 I’m currently working on<br>React-Typescript, Node, AWS<br><br>🌱 I’m currently learning<br>Next.js, Vue.js<br><br>💬 Ask me about<br>Everything, pretty much 😁<br><br>⚡ Fun fact<br>I love food!
+🔭 I’m currently working on:<br>React-Typescript, Node, AWS<br><br>🌱 I’m currently learning:<br>Typescript, Next.js, Vue.js<br><br>💬 Ask me about:<br>Everything, pretty much 😁<br><br>⚡ Fun fact:<br>I really love food!
 
 
 ## 🌐 Socials:
