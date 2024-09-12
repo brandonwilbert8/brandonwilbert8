@@ -7,7 +7,7 @@
 ----
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>React-Typescript, Node, AWS<br><br>🌱 I’m currently learning:<br>Advanced Typescript, Next.js, Vue.js<br><br>💬 Ask me about:<br>Anything, pretty much 😁<br><br>⚡ Fun fact:<br>I really love food!
+🔭 I’m currently working on:<br>React-Typescript, Node, AWS<br><br>🌱 I’m currently learning:<br>Advanced Typescript, Next.js, Vue.js<br><br>💬 Ask me about:<br>Anything, pretty much 😁<br><br>⚡ Fun fact:<br>I like to read books!
 
 
 ## 🌐 Socials:
